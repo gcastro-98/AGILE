@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# IDE stuff
+.vscode/
+.idea/
+
+# Nested repositories
+labs/
+
 # C extensions
 *.so
 
